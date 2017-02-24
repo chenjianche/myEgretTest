@@ -1,0 +1,46 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,ssqlogo_png,noheadimg_png,icon_chip_png,headBox_bg_png,chips_133x133_png,bg_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/ssqlogo.png",
+			"type": "image",
+			"name": "ssqlogo_png",
+			"scale9grid": "28,21,36,46"
+		},
+		{
+			"url": "assets/bg.png",
+			"type": "image",
+			"name": "bg_png"
+		},
+		{
+			"url": "assets/chips_133x133.png",
+			"type": "image",
+			"name": "chips_133x133_png"
+		},
+		{
+			"url": "assets/icon_chip.png",
+			"type": "image",
+			"name": "icon_chip_png"
+		},
+		{
+			"url": "assets/headBox_bg.png",
+			"type": "image",
+			"name": "headBox_bg_png"
+		},
+		{
+			"url": "assets/noheadimg.png",
+			"type": "image",
+			"name": "noheadimg_png"
+		}
+	]
+}

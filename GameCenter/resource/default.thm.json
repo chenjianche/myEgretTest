@@ -1,0 +1,7 @@
+{
+  "autoGenerateExmlsList": true,
+  "exmls": [
+    "resource/skins/GameCenterMain.exml"
+  ],
+  "skins": {}
+}

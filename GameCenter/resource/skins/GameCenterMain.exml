@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameCenter" width="965" height="665" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="bg_png" x="0" y="0" width="965" height="665" locked="true"/>
+	<e:Group width="260.67" height="258" x="56.42" y="168.67" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Label text="Label" x="108" y="129" textColor="0x000000"/>
+		<e:Label text="Label" x="110" y="160" textColor="0x000000"/>
+	</e:Group>
+	<e:Group width="260" height="257.33" x="337.27" y="168.67" anchorOffsetX="0" anchorOffsetY="0"/>
+	<e:Group width="259.33" height="258.67" x="618.33" y="168.67" anchorOffsetX="0" anchorOffsetY="0"/>
+
+	<e:Label id="lbl_name" text="" x="116.42" y="17.26" textColor="0x000000" size="22"/>
+	<e:Image id="img_head" width="77.43" height="77.86" x="28.5" y="8.57" anchorOffsetX="0" anchorOffsetY="0"/>
+	<e:Image source="icon_chip_png" x="343.27" y="52.88" anchorOffsetX="0" width="28.33" anchorOffsetY="0" height="28.57"/>
+	<e:Scroller width="544" height="102" x="266" y="527" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Group id="scroll_heads" anchorOffsetX="0" width="637" x="20" y="0" anchorOffsetY="0" height="119">
+			<e:layout>
+				<e:HorizontalLayout/>
+			</e:layout>
+		</e:Group>
+	</e:Scroller>
+	<e:Label id="lbl_level" text="0" x="117.75" y="47.5" anchorOffsetX="0" width="38.67" anchorOffsetY="0" height="39.33" textColor="0x000000" verticalAlign="middle" textAlign="center" size="25"/>
+	<e:Label id="lbl_chips" text="000000" x="380.27" y="61.08" anchorOffsetX="0" width="114" anchorOffsetY="0" height="22" textColor="0xede402" size="22"/>
+	<e:Image source="icon_chip_png" x="126.26" y="107.67"/>
+</e:Skin>

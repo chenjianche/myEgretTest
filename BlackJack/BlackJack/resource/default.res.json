@@ -1,0 +1,70 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,background_jpg,buttons_131x133_png,cards_128x173_png,chips_133x133_png,panels_379x159_png,playBut_png,titleScreen_jpg,helpScreen_jpg,poker_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "background_jpg",
+			"type": "image",
+			"url": "assets/background.jpg"
+		},
+		{
+			"name": "buttons_131x133_png",
+			"type": "image",
+			"url": "assets/buttons_131x133.png"
+		},
+		{
+			"name": "cards_128x173_png",
+			"type": "image",
+			"url": "assets/cards_128x173.png"
+		},
+		{
+			"name": "chips_133x133_png",
+			"type": "image",
+			"url": "assets/chips_133x133.png"
+		},
+		{
+			"name": "panels_379x159_png",
+			"type": "image",
+			"url": "assets/panels_379x159.png"
+		},
+		{
+			"name": "playBut_png",
+			"type": "image",
+			"url": "assets/playBut.png"
+		},
+		{
+			"name": "titleScreen_jpg",
+			"type": "image",
+			"url": "assets/titleScreen.jpg"
+		},
+		{
+			"name": "helpScreen_jpg",
+			"type": "image",
+			"url": "assets/helpScreen.jpg"
+		},
+		{
+			"name": "poker_png",
+			"type": "image",
+			"url": "assets/poker.png"
+		}
+	]
+}
